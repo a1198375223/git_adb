@@ -1,6 +1,6 @@
 ***  
 ###### GIT
-* git pull origin master/分支名字 --rebase(作用：拉取分支并且与原有的分支合并)  
+1. git pull origin master/分支名字 --rebase(作用：拉取分支并且与原有的分支合并)  
 2. git push origin master/分支名字  
 3. git add .  
 4. git reset 文件名(作用：将add的文件移除add仓库)  
@@ -19,5 +19,5 @@
 
 ***  
 ###### ADB  
-* adb kill-server  
+1. adb kill-server  
 2. adb start-server  
