@@ -1,5 +1,5 @@
 ***  
-<center>GIT</center>  
+###### GIT
 * git pull origin master/分支名字 --rebase(作用：拉取分支并且与原有的分支合并)  
 2. git push origin master/分支名字  
 3. git add .  
@@ -18,6 +18,6 @@
 
 
 ***  
-<center>ADB</center>  
+###### ADB  
 * adb kill-server  
 2. adb start-server  
