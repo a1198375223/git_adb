@@ -20,6 +20,7 @@
 18. git diff --cache(作用：查看已经add但是没有commit的文件)
 19. git diff HEAD(作用：查看上面两个内容的合并)
 20. git cherry-pick (作用:当你需要在分支上提交代码到另一个分支上的时候可以使用)
+21. fadkjfajlkfsladkjlfjlads
 
 
 ***  
